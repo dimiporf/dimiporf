@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimitrios Porfyropoulos</h1>
-<h3 align="center">Junior Software Developer | C# and SQL Certified</h3>
+<h3 align="center">C#/.NET Backend Developer in Dortmund</h3>
 
 - 🔭 I’m currently working on [Coding Challenges .NET Implementations](https://github.com/dimiporf/LoadBalancer)
 
-- 🌱 I’m currently learning **Entity Framework, REST API Patterns & More**
+- Backend development with ASP.NET Core, REST APIs, Entity Framework and SQL. Applied computer vision with YOLO and ONNX Runtime.
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimiporf](https://github.com/dimiporf)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dimiporf@live.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ku651G8xfnp_F_ioZi1u1bXAIHsX3Q10](https://drive.google.com/drive/folders/1ku651G8xfnp_F_ioZi1u1bXAIHsX3Q10)
+- [Professional profile and experience](https://porfyro.dev/)
 
 - ⚡ Fun fact **Sometimes, I think I am funny.**
 
